@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetSet.Core", "BetSet.Core\BetSet.Core.csproj", "{3C0E5563-A1C1-452B-8C71-92CCBEEC7C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetSet.App", "BetSet.App\BetSet.App.csproj", "{D902B2A8-31BE-4AB7-A267-7C3A567D319B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C0E5563-A1C1-452B-8C71-92CCBEEC7C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0E5563-A1C1-452B-8C71-92CCBEEC7C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0E5563-A1C1-452B-8C71-92CCBEEC7C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0E5563-A1C1-452B-8C71-92CCBEEC7C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D902B2A8-31BE-4AB7-A267-7C3A567D319B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D902B2A8-31BE-4AB7-A267-7C3A567D319B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D902B2A8-31BE-4AB7-A267-7C3A567D319B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D902B2A8-31BE-4AB7-A267-7C3A567D319B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D902B2A8-31BE-4AB7-A267-7C3A567D319B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D902B2A8-31BE-4AB7-A267-7C3A567D319B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F6C871-13E7-4C0E-9B77-88288216C618}
+	EndGlobalSection
+EndGlobal
